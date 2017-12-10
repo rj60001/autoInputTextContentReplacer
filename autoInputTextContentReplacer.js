@@ -6,7 +6,6 @@ function clearValue(element){
 
 function restoreValue(element){
   if(element.value == ""){
-    x = element.getAttribute("info");
-    element.value = x;
+    element.value = element.getAttribute("info");
   }
 }
