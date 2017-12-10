@@ -1,5 +1,5 @@
 function clearValue(element){
-  if(element.value == value.getAttribute("info")){
+  if(element.value == element.getAttribute("info")){
     element.value = "";
   }
 }
