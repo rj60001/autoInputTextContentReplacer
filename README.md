@@ -5,4 +5,4 @@ This is a tiny script that clears and restores a default value for an input in H
 * Set the info attribute to the same value as the info element.
 * Call with *onfocus* for **clearValue()** and *onblur* for **restoreValue()**.
 
-If you have any problems please set an issue.
+If you have any problems please open a new issue.
